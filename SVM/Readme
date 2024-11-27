@@ -1,1 +1,5 @@
-Please be noted the HW3Main is the original file that contians load_data() function.
+Please be noted the HW3Main is the original file that contians load_data() function. Each of other files called the function.
+BankNote file contains train and test dataset.
+All other files started with HW4 indicates HW4 file.
+Basically they are named with different parameters, gamma, kernel, further instruction can be found within code files.
+All files are created, debugged and ran on local Python environment.
